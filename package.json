@@ -1,5 +1,5 @@
 {
-	"name": "parcel-plugin-proto",
+	"name": "parcel-transformer-proto",
 	"version": "1.0.0",
 	"description": "Protocol Buffers support in Parcel v2 via pbf",
 	"main": "ProtoTransformer.js",
@@ -8,7 +8,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/bminer/parcel-plugin-proto.git"
+		"url": "git+https://github.com/bminer/parcel-transformer-proto.git"
 	},
 	"keywords": [
 		"protobuf",
@@ -21,9 +21,9 @@
 	"author": "Blake Miner",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/bminer/parcel-plugin-proto/issues"
+		"url": "https://github.com/bminer/parcel-transformer-proto/issues"
 	},
-	"homepage": "https://github.com/bminer/parcel-plugin-proto#readme",
+	"homepage": "https://github.com/bminer/parcel-transformer-proto#readme",
 	"dependencies": {
 		"@parcel/plugin": "^2.3.1",
 		"pbf": "^3.2.1",
